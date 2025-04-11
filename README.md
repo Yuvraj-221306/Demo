@@ -5,4 +5,4 @@ This a is a Demo for Git &amp; Github class.
 Yuvraj
 
 # Student
-Sam
+Tannu
